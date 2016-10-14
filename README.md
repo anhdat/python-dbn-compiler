@@ -18,4 +18,4 @@ Line 78 27 50 77
 
 We have this:
 
-![](./python-dbn.gif)
+![](./python-dbn-2.gif)
